@@ -32,6 +32,7 @@ A plataforma busca reduzir barreiras comunicacionais e promover maior autonomia,
 ### Front-end
 
 * React
+* Javascript
 * Tailwind CSS
 
 ### Recursos Web
