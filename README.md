@@ -1,1 +1,0 @@
-# Do-Silencio-A-Expressao
