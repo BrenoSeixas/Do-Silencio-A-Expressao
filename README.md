@@ -33,6 +33,7 @@ A plataforma busca reduzir barreiras comunicacionais e promover maior autonomia,
 
 * React
 * Javascript
+* Figma
 * Tailwind CSS
 
 ### Recursos Web
